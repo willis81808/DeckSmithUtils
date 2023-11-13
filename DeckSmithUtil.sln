@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckSmithUtil", "DeckSmithUtil\DeckSmithUtil.csproj", "{CD056251-FBFF-4C33-B9C7-3DEACA70C942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD056251-FBFF-4C33-B9C7-3DEACA70C942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD056251-FBFF-4C33-B9C7-3DEACA70C942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD056251-FBFF-4C33-B9C7-3DEACA70C942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD056251-FBFF-4C33-B9C7-3DEACA70C942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1FD593D-281F-465E-BC34-DF753F42E4AF}
+	EndGlobalSection
+EndGlobal
